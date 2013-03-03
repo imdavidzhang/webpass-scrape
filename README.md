@@ -8,3 +8,5 @@ scrapes http://www.webpass.net/buildings?city=san+francisco and shows residentia
 put your Google Maps API key into key.txt, and run like
 
     ruby parse.rb > out.html
+
+Sample image: http://i.imgur.com/lkasybp.png
